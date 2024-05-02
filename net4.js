@@ -30,5 +30,9 @@ const characters = [
 ];
 // const allCharacter = characters.map((character) => character.name);
 // console.log(allCharacter);
-const allCharacter = characters.map((character) => character.height);
+// const allCharacter = characters.map((character) => character.height);
+// console.log(allCharacter);
+// const allCharacter = characters.map((character) => character.name.height);
+// console.log(allCharacter);
+const allCharacter = characters.map((character) => character.name[0]);
 console.log(allCharacter);
