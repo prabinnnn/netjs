@@ -4,4 +4,3 @@ const blogs = [
   { title: "the best beach of the world" },
   { title: "Science of war by prabin" },
 ];
-const reg=//g
