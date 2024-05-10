@@ -11964,4 +11964,7 @@ textarea.form-control-lg {
   .d-print-none {
     display: none !important;
   }
+}
+.btn-color {
+  color: #fff;
 }/*# sourceMappingURL=custom.css.map */
